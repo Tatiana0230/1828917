@@ -15,6 +15,10 @@ Scanner apellido= new Scanner(System.in);
 System.out.println("Ingrese su apellido");
 apelli=apellido.next();
 System.out.println("Su apellido es:"+apelli);
+Scanner edad= new Scanner(System.in);
+System.out.println("Ingrese su edad");
+ed=edad.next();
+System.out.println("Su edad es:"+ed);
 
     }
     
