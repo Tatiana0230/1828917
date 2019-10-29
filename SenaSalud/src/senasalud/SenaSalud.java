@@ -19,7 +19,10 @@ Scanner edad= new Scanner(System.in);
 System.out.println("Ingrese su edad");
 ed=edad.next();
 System.out.println("Su edad es:"+ed);
-
+Scanner color= new Scanner(System.in);
+System.out.println("Ingrese su color favorito");
+col=color.next();
+System.out.println("Su color favorito es:"+col);
     }
     
 }
